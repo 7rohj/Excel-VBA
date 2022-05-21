@@ -11,14 +11,21 @@
 
 <br/>
 
+# SUMMARY
+
+![테이블_크기변경](https://user-images.githubusercontent.com/99319638/169633940-f161de55-9e75-4cd7-9d75-13bd97093b2f.png)
+
+
+
 ### [1] 웹페이지상에서의 날것의 표
 ![구간별통계정보 _ 통계정보 _ 교통정보 경기도교통정보센터 - Chrome 2022-05-21 오전 9_45_48](https://user-images.githubusercontent.com/99319638/169627781-de4a52eb-69e3-4ff0-a9e4-e600731d3906.png)
 
 ### [2] 해당 코드를 실행하고 난뒤..
 ![image](https://user-images.githubusercontent.com/99319638/169628732-64f5167f-13e4-46a5-8fea-7b0ca8f74b1d.png)
 
-row로 구간이, 그리고 column으로 시간이 나타나 있는 데이터를
-태블로에 이용하기에 적합한 
+
+
+# table of contents
 
 
 
