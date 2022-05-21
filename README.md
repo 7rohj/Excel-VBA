@@ -13,12 +13,15 @@
 
 # SUMMARY
 
-![테이블_크기변경](https://user-images.githubusercontent.com/99319638/169633940-f161de55-9e75-4cd7-9d75-13bd97093b2f.png)
+<br/>
+<br/>
+
+![테이블_크기변경(2)](https://user-images.githubusercontent.com/99319638/169634030-fe1f9aa7-88ea-47a3-8416-28a31e8d4e63.png)
 
 
 
 ### [1] 웹페이지상에서의 날것의 표
-![구간별통계정보 _ 통계정보 _ 교통정보 경기도교통정보센터 - Chrome 2022-05-21 오전 9_45_48](https://user-images.githubusercontent.com/99319638/169627781-de4a52eb-69e3-4ff0-a9e4-e600731d3906.png)
+![구간별통계정보 _ 통계정보 _ 교통정보 경기도교통정보센터 - Chrome 2022-05-21 오전 9_45_48](https://user-images.githubusercontent.com/99319638/169634121-ec16f4ee-1b74-48c9-b633-aa90c3c86dec.png)
 
 ### [2] 해당 코드를 실행하고 난뒤..
 ![image](https://user-images.githubusercontent.com/99319638/169628732-64f5167f-13e4-46a5-8fea-7b0ca8f74b1d.png)
