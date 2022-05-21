@@ -14,6 +14,12 @@
 ### [1] 웹페이지상에서의 날것의 표
 ![구간별통계정보 _ 통계정보 _ 교통정보 경기도교통정보센터 - Chrome 2022-05-21 오전 9_45_48](https://user-images.githubusercontent.com/99319638/169627781-de4a52eb-69e3-4ff0-a9e4-e600731d3906.png)
 
+### [2] 해당 코드를 실행하고 난뒤..
+![image](https://user-images.githubusercontent.com/99319638/169628623-85459779-1083-413b-931f-7c1359da3b62.png)
+도로명	구간	시간	2020-07-13	2020-07-14	2020-07-15	2020-07-16	2020-07-17	2020-07-18	2020-07-19	일주일평균
+![image](https://user-images.githubusercontent.com/99319638/169628627-e15bf1d3-86f3-4465-b838-be9946c80017.png)
+
+
 
 
 
